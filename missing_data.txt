@@ -1,0 +1,52 @@
+missing_apple.jpg,I'm hungry for a sweet fruit,apple,eat,direct
+missing_banana.jpg,I need to peel this yellow fruit,banana,peel,direct
+missing_bottle.jpg,Can you pour me a drink?,bottle,pour,direct
+missing_bowl.jpg,I need to mix the ingredients,bowl,stir,direct
+missing_carrot.jpg,Let's wash these carrots,carrot,wash,direct
+missing_cup.jpg,I want to sip my coffee,cup,sip,direct
+missing_fork.jpg,Can you lift that piece of food?,fork,lift,direct
+missing_frisbee.jpg,Let's play catch in the park,frisbee,throw,direct
+missing_knife.jpg,I need to slice this bread,knife,cut_with,direct
+missing_laptop.jpg,I need to write an email,laptop,type_on,direct
+missing_pen.jpg,I want to write a note,pen,write,direct
+missing_scissors.jpg,I need to cut a piece of paper,scissors,cut_with,direct
+missing_toothbrush.jpg,It's time to brush my teeth,toothbrush,brush_with,direct
+missing_apple.jpg,This apple needs to be cut into slices,apple,cut,direct
+missing_banana.jpg,I want to eat this yellow fruit,banana,eat,direct
+missing_bottle.jpg,Can you open this drink for me?,bottle,open,direct
+missing_bowl.jpg,I need to wash this dish,bowl,wash,direct
+missing_carrot.jpg,Let's peel these vegetables,carrot,peel,direct
+missing_cup.jpg,Could you pour some tea into my cup?,cup,pour,direct
+missing_fork.jpg,I need to pick up this piece of food,fork,hold,direct
+missing_frisbee.jpg,Can you catch this flying disc?,frisbee,catch,direct
+missing_knife.jpg,I need to spread butter on my bread,knife,hold,direct
+missing_laptop.jpg,It's time to work on my assignment,laptop,type_on,direct
+missing_pen.jpg,I need to sign this document,pen,write,direct
+missing_scissors.jpg,These papers need to be cut,scissors,cut_with,direct
+missing_toothbrush.jpg,I should clean my teeth now,toothbrush,brush_with,direct
+missing_apple.jpg,I'm craving something sweet,apple,eat,general
+missing_banana.jpg,I need a quick snack,banana,eat,general
+missing_bottle.jpg,I'm thirsty,bottle,drink_with,general
+missing_bowl.jpg,Let's make a salad,bowl,hold,general
+missing_carrot.jpg,I should eat healthier,carrot,eat,general
+missing_cup.jpg,I need my morning boost,cup,drink_with,general
+missing_fork.jpg,Time for dinner,fork,hold,general
+missing_frisbee.jpg,Let's play outside,frisbee,throw,general
+missing_knife.jpg,This needs to be smaller,knife,cut_with,general
+missing_laptop.jpg,I have work to do,laptop,type_on,general
+missing_pen.jpg,I need to jot something down,pen,write,general
+missing_scissors.jpg,This is too big,scissors,cut_with,general
+missing_toothbrush.jpg,My mouth feels dirty,toothbrush,brush_with,general
+missing_apple.jpg,Feeling hungry for a...,apple,eat,broken
+missing_banana.jpg,Yellow fruit needs...,banana,peel,broken
+missing_bottle.jpg,Thirsty.. where's the...?,bottle,drink_with,broken
+missing_bowl.jpg,Mix the ingredients in a...,bowl,stir,broken
+missing_carrot.jpg,Orange veggie needs to be...,carrot,eat,broken
+missing_cup.jpg,Coffee... where did I put it?,cup,sip,broken
+missing_fork.jpg,Dinner time need a...,fork,hold,broken
+missing_frisbee.jpg,Catch the... in the park,frisbee,catch,broken
+missing_knife.jpg,Slice the bread with a...,knife,cut_with,broken
+missing_laptop.jpg,Email needs to be... quickly,laptop,type_on,broken
+missing_pen.jpg,Write a note with the...,pen,write,broken
+missing_scissors.jpg,Cut this paper using...,scissors,cut_with,broken
+missing_toothbrush.jpg,Clean teeth with a...,toothbrush,brush_with,broken

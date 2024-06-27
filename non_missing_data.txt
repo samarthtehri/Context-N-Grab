@@ -1,0 +1,84 @@
+chair.jpg,I need to sit down,chair,sit_on,direct
+couch.jpg,I want to lie down and watch tv,couch,lie_on,direct
+couchfar.jpg,I want to sit on a sofa,couch,sit_on,direct
+microwave.jpg,I want to heat up my leftovers,microwave,open,direct
+kitchenfull.jpg,I need to cut some vegetables for dinner,knife,cut_with,direct
+kitchenfull.jpg,I'm hungry for a sweet fruit,apple,eat,direct
+kitchenfull.jpg,I need to peel this yellow fruit,banana,peel,direct
+kitchenfull.jpg,Can you pour me a drink?,bottle,pour,direct
+kitchenfull.jpg,I need to mix the ingredients,bowl,stir,direct
+kitchenfull.jpg,Let's wash these carrots,carrot,wash,direct
+kitchenfull.jpg,I want to sip my coffee,cup,sip,direct
+kitchenfull.jpg,Can you lift that piece of food?,fork,lift,direct
+kitchenfull.jpg,Let's play catch in the park,frisbee,throw,direct
+kitchenfull.jpg,I need to slice this bread,knife,cut_with,direct
+kitchenfull.jpg,I need to write an email,laptop,type_on,direct
+kitchenfull.jpg,I want to write a note,pen,write,direct
+kitchenfull.jpg,I need to cut a piece of paper,scissors,cut_with,direct
+kitchenfull.jpg,It's time to brush my teeth,toothbrush,brush_with,direct
+oven.jpg,I need to check on my roast,oven,open,direct
+refrigerator.jpg,Let's get some cold drinks,refrigerator,open,direct
+chair.jpg,This room needs more seating,chair,sit_on,direct
+couch.jpg,I need a comfortable place to watch TV,couch,sit_on,direct
+couchfar.jpg,That sofa looks perfect for a nap,couch,lie_on,direct
+microwave.jpg,The food needs to be warmed up,microwave,open,direct
+kitchenfull.jpg,This apple needs to be cut into slices,apple,cut,direct
+kitchenfull.jpg,I want to eat this yellow fruit,banana,eat,direct
+kitchenfull.jpg,Can you open this drink for me?,bottle,open,direct
+kitchenfull.jpg,I need to wash this dish,bowl,wash,direct
+kitchenfull.jpg,Let's peel these vegetables,carrot,peel,direct
+kitchenfull.jpg,Could you pour some tea into my cup?,cup,pour,direct
+kitchenfull.jpg,I need to pick up this piece of food,fork,hold,direct
+kitchenfull.jpg,Can you catch this flying disc?,frisbee,catch,direct
+kitchenfull.jpg,I need to spread butter on my bread,knife,hold,direct
+kitchenfull.jpg,It's time to work on my assignment,laptop,type_on,direct
+kitchenfull.jpg,I need to sign this document,pen,write,direct
+kitchenfull.jpg,These papers need to be cut,scissors,cut_with,direct
+kitchenfull.jpg,I should clean my teeth now,toothbrush,brush_with,direct
+oven.jpg,The food is hot and is ready,oven,open,direct
+refrigerator.jpg,I need to store away the groceries,refrigerator,open,direct
+chair.jpg,That chair looks comfortable to sit in,chair,sit_on,direct
+couch.jpg,I want to stretch out and relax,couch,lie_on,direct
+couchfar.jpg,Let's move that sofa to create more space,couch,sit_on,direct
+chair.jpg,I need a break,chair,sit_on,general
+couch.jpg,I want to relax,couch,lie_on,general
+couchfar.jpg,Let's get comfortable,couch,sit_on,general
+microwave.jpg,The food is cold,microwave,open,general
+kitchenfull.jpg,I'm craving something sweet,apple,eat,general
+kitchenfull.jpg,I need a quick snack,banana,eat,general
+kitchenfull.jpg,I'm thirsty,bottle,drink_with,general
+kitchenfull.jpg,Let's make a salad,bowl,hold,general
+kitchenfull.jpg,I should eat healthier,carrot,eat,general
+kitchenfull.jpg,I need my morning boost,cup,drink_with,general
+kitchenfull.jpg,Time for dinner,fork,hold,general
+kitchenfull.jpg,Let's play outside,frisbee,throw,general
+kitchenfull.jpg,This needs to be smaller,knife,cut_with,general
+kitchenfull.jpg,I have work to do,laptop,type_on,general
+kitchenfull.jpg,I need to jot something down,pen,write,general
+kitchenfull.jpg,This is too big,scissors,cut_with,general
+kitchenfull.jpg,My mouth feels dirty,toothbrush,brush_with,general
+oven.jpg,Something smells good,oven,open,general
+refrigerator.jpg,I'm feeling hungry,refrigerator,open,general
+chair.jpg,My legs are tired,chair,sit_on,general
+couch.jpg,Netflix and chill?,couch,lie_on,general
+chair.jpg,The chair looks...,chair,sit_on,broken
+couch.jpg,I want to... on the couch,couch,lie_on,broken
+couchfar.jpg,Can we use the... over there?,couch,sit_on,broken
+microwave.jpg,Food is cold need to...,microwave,open,broken
+kitchenfull.jpg,Feeling hungry for a...,apple,eat,broken
+kitchenfull.jpg,Yellow fruit needs...,banana,peel,broken
+kitchenfull.jpg,Thirsty.. where's the...?,bottle,drink_with,broken
+kitchenfull.jpg,Mix the ingredients in a...,bowl,stir,broken
+kitchenfull.jpg,Orange veggie needs to be...,carrot,eat,broken
+kitchenfull.jpg,Coffee... where did I put it?,cup,sip,broken
+kitchenfull.jpg,Dinner time need a...,fork,hold,broken
+kitchenfull.jpg,Catch the... in the park,frisbee,catch,broken
+kitchenfull.jpg,Slice the bread with a...,knife,cut_with,broken
+kitchenfull.jpg,Email needs to be... quickly,laptop,type_on,broken
+kitchenfull.jpg,Write a note with the...,pen,write,broken
+kitchenfull.jpg,Cut this paper using...,scissors,cut_with,broken
+kitchenfull.jpg,Clean teeth with a...,toothbrush,brush_with,broken
+oven.jpg,Check the... it might be ready,oven,open,broken
+refrigerator.jpg,Get some... from the kitchen,refrigerator,open,broken
+chair.jpg,Tired legs need to...,chair,sit_on,broken
+couch.jpg,Relax on the... after work,couch,lie_on,broken
